@@ -16,7 +16,7 @@
     "report-coverage": "cat ./coverage/lcov.info | coveralls"
   },
   "engines": {
-    "node": "10.11.0",
+    "node": "10.6.0",
     "yarn": "1.10.1"
   },
   "keywords": [
